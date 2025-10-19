@@ -13,9 +13,9 @@
 
 Recently, I am exploring **LLMs, Diffusion Models, and LangChain**.  
 
-I also enjoy building **small tools and scripts** to automate personal tasks.  
+I like building **small tools and scripts** to automate personal tasks.  
 
-I have some hardworking, intelligent employees… GPT, Claude, Kimi… and myself (neither hardworking nor smart lol).
+I have some hardworking, intelligent employees… GPT, Claude, Kimi… and myself (this one is neither hardworking nor smart lol).
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
