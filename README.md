@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="40"/> Hi, this is MJLNSN
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="40"/> Hi humans, this is MJLNSN
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=📧+mjlnsn@gmail.com;💻+AI%2FML;Fullstack+Developer;I+have+a+%F0%9F%90%B1;Location+:+%F0%9F%8C%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=📧+mjlnsn@gmail.com;💻+AI%2FML;Fullstack+Developer)](https://git.io/typing-svg)
 
 
 </div>
@@ -62,4 +62,5 @@ I have some hardworking, intelligent employees… GPT, Claude, Kimi… and mysel
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MJLNSN&layout=compact&hide_border=false&title_color=2F81F7&icon_color=2F81F7&text_color=2F81F7&bg_color=ffffff)
 
+<img src="https://komarev.com/ghpvc/?username=MJLNSN&style=flat-square&color=blue"/>
 
