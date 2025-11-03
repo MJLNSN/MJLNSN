@@ -11,7 +11,7 @@
 
 ## 🌟 About Me
 
-Recently, I am exploring **LLMs, Diffusion Models, and LangChain**.  
+Recently, I am exploring **LangGhaph**.  
 
 I like building **small tools and scripts** to automate personal tasks.  
 
