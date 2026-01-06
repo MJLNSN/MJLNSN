@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-Recently, I am exploring **LangGraph** and building **AI agent systems** exposed via **RESTful APIs**.  
+Recently, I am exploring **LangGraph**.
 
 I enjoy creating **small tools and automation scripts** to improve productivity.  
 
