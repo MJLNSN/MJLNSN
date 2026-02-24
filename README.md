@@ -6,7 +6,7 @@
 
 ## 🌟 About Me
 
-Recently, I am exploring **LangGraph**.
+Recently, I am exploring **clawdbot** ~~LangGraph~~.
 
 I enjoy creating **small tools and automation scripts** to improve productivity.  
 
